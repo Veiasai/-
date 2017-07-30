@@ -1,0 +1,157 @@
+{
+ "name": "flare",
+ "children": [
+  {
+   "name": "流行音乐",
+   "children": [
+    {
+     "name": "周杰伦",
+     "children": [
+      {"name": "晴天", "size": 7000},
+      {"name": "双截棍", "size": 2500},
+      {"name": "告白气球", "size": 2000},
+      {"name": "安静", "size": 1580}
+     ]
+    },
+    {
+     "name": "薛之谦",
+     "children": [
+      {"name": "花儿与少年", "size": 5534},
+      {"name": "演员", "size": 2333},
+      {"name": "动物世界", "size": 3222},
+      {"name": "认真的雪", "size": 2000},
+      {"name": "意外", "size": 3888}
+     ]
+    },
+    {
+     "name": "杨宗纬",
+     "children": [
+      {"name": "洋葱", "size": 5222}
+     ]
+    },
+    {
+     "name": "孙燕姿",
+     "children": [
+      {"name": "天黑黑", "size": 2534},
+      {"name": "我也很想他", "size": 3333},
+      {"name": "遇见", "size": 3222},
+      {"name": "在，也不见", "size": 3000},
+      {"name": "我怀念的", "size": 4074}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "古典音乐",
+   "children": [
+    {
+     "name": "交响曲",
+     "children": [
+      {
+       "name": "贝多芬",
+       "children": [
+        {"name": "F大调第六号交响曲“田园”", "size": 3544},
+        {"name": "D小调第九号交响曲“合唱”", "size": 4333}
+       ]
+      },
+      {
+       "name": "莫扎特",
+       "children": [
+        {"name": "G小调第四十号交响曲", "size": 4534}
+       ]
+      },
+      {
+       "name": "海顿",
+       "children": [
+        {"name": "G大调第九十四号交响曲“惊愕”", "size": 5566}
+       ]
+      }
+      ]
+    },
+    {
+     "name": "协奏曲",
+     "children": [
+      {
+       "name": "巴赫",
+       "children": [
+        {"name": "G大调第三号勃兰登堡协奏曲", "size": 6775}
+       ]
+        },
+        {
+         "name": "海顿",
+         "children": [
+          {"name": "D大调钢琴协奏曲", "size": 9999}
+         ]
+        },
+        {
+         "name": "莫扎特",
+         "children": [
+          {"name": "D大调钢琴协奏曲", "size": 8888},
+          {"name": "A大调钢琴协奏曲", "size": 4788}
+         ]
+        }
+       ]
+      }
+   ]
+  },
+  {
+   "name": "民族音乐",
+   "children": [
+    {
+     "name": "古筝曲",
+     "children": [
+      {"name": "梁山伯与祝英台", "size": 5655},
+      {"name": "乡韵", "size": 3658},
+      {"name": "临安遗恨", "size": 6455}
+       ]
+      },
+      {
+       "name": "二胡",
+       "children": [
+        {"name": "银色的月光下", "size": 3658},
+        {"name": "牧马之歌", "size": 4888}
+       ]
+      },
+      {
+       "name": "古琴",
+       "children": [
+        {"name": "咏柳", "size": 7788},
+        {"name": "早发白帝城", "size": 3548},
+        {"name": "游园不值", "size": 4888}
+       ]
+      }
+     ]
+    },
+  {
+   "name": "喊麦",
+   "children": [
+    {
+     "name": "MC韩雅乐",
+     "children": [
+      {"name": "负心人", "size": 4000},
+      {"name": "为了你", "size": 3500},
+      {"name": "无情人", "size": 3000}
+     ]
+    },
+    {
+     "name": "MC天佑",
+     "children": [
+      {"name": "咱们结婚吧", "size": 2555},
+      {"name": "年少轻狂", "size": 3333},
+      {"name": "一人饮酒醉", "size": 3888}
+     ]
+    },
+    {
+     "name": "MC水公主",
+     "children": [
+      {"name": "爆音天使", "size": 2534},
+      {"name": "许多年以后", "size": 2333},
+      {"name": "走你", "size": 4222},
+      {"name": "一百个放心", "size": 2700},
+      {"name": "社会摇", "size": 4074}
+     ]
+    }
+   ]
+  }
+ ]
+  }
